@@ -1,4 +1,4 @@
-# Portfolio
+# Project
 My first data analysis project
 
 Data source - https://www.kaggle.com/jessemostipak/hotel-booking-demand
